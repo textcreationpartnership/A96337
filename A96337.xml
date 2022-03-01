@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Friends, you that are of the Parliament, hear the word of the Lord as it came unto me ...</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96337</idno>
+            <idno type="STC">Wing W1749</idno>
+            <idno type="STC">ESTC R186478</idno>
+            <idno type="EEBO-CITATION">47683532</idno>
+            <idno type="OCLC">ocm 47683532</idno>
+            <idno type="VID">172989</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172989)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2660:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Friends, you that are of the Parliament, hear the word of the Lord as it came unto me ...</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first words of text.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Signed on p. 8: Dorothy White.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Sermons --  Early works to 1800.</term>
+               <term>Apocalyptic literature --  Quaker authors --  Early works to 1800.</term>
+               <term>Judgment Day --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172989:1" rendition="simple:additions"/>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>YOu that are of the Parliament, hear the Word of the Lord as it came unto me concerning <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and by the Eternal God am I moved to lay theſe things before you, how that your down-fall is near, and this is the word of the Lord God of Hoſts unto you all that are now ſitting in Parliament, the Lord will overturn you all by his Powerful Arm, for the decree of God and his purpoſe is, and his deter<g ref="char:EOLhyphen"/>mination is to throw down and to break up Parliaments, and there ſhall not any man bear rule that is out of the Law of God, but God himſelf will Rule &amp; bear rule in the hearts of men, and ſuch as know God to rule, and to guide them by his own ſpirit, ſuch ſhal rule for God that are led by his ſpirit into all truth, for God will throw down and overturn, root up and conſume both root and branch of all your Parliaments, until he hath brought in the Royal Heir, the Prince of peace, the Everlaſting King of Righteouſneſſe, whoſe right it is to reign, and he will reign in the deſtruction of his ene<g ref="char:EOLhyphen"/>mies, for the God of <hi>Abraham,</hi> of <hi>Iſaac</hi> and of <hi>Jacob</hi> hath determined, and he will ſurely accompliſh his word, and Heaven and Earth ſhall paſs away, but the Word of our God ſhall not paſs until it is fulfilled, for pro<g ref="char:EOLhyphen"/>pheſie ſhall go out from the Mouth of the Lord, and ſhall not turn again unfulfilled, for the Lord God hath raiſed up a Prophet like unto <hi>Moſes,</hi> and he ſhall pro<g ref="char:EOLhyphen"/>pheſie of things to come, and it ſhall come to paſs and be fulfilled; and this is the Prophet that the Lord God hath commanded that all ſhould hear him and obey him, and this is the light of the World, <hi>and doth enlighten every man that com<g ref="char:EOLhyphen"/>eth into the World,</hi> and God hath choſen him to bear rule, and he is exalting him, and he ſhall reign, and he ſhall tread down his enemies under him, although they now rule over him, yet this be known that God who is powerful and un<g ref="char:EOLhyphen"/>reſiſtable, and unlimited, will break in upon his enemies like a flood, and like an armed man will he ſweep them all a<g ref="char:EOLhyphen"/>way
+<pb n="2" facs="tcp:172989:2" rendition="simple:additions"/>by the beſome of deſtruction, for the Lord God will make the Earth to quake, and he will ſhake the high Moun<g ref="char:EOLhyphen"/>tains, until they become a plain for the Lord to paſs over, for he will utter forth his Lightnings, his Thunders and his earth-quakes in the earth, until he hath brought down the lofty from their ſeat, until he hath thrown down proud <hi>Ha<g ref="char:EOLhyphen"/>mon,</hi> and raiſed up poor <hi>Mordecay</hi> which is kept under the proud high Nature which God will deſtroy, and therefore the Proud, and the High, and the Lofty, and the Honoura<g ref="char:EOLhyphen"/>ble honoured by men, God will bring down into diſhonour, ſhame and contempt, for God is coming to ſtain the glory of all fleſh, both of Princes and Rulers, both of Lords and No<g ref="char:EOLhyphen"/>bles, and all ſhall bow and bend unto him that is the Light of the World, the Way to God, to Life and to perfect joy; And all you who are yet in rebellion againſt the Lord God of Heaven and Earth, I ſay unto you, be warned in your life time to repent from dead works, and come down from your High Thrones you exalted proud ones, the Lord God will abaſe you and bring you low, by his own arm will he ſcat<g ref="char:EOLhyphen"/>ter you, and with plagues will he recompence you with eter<g ref="char:EOLhyphen"/>nal vengeance, with wo and deſolation will he reward you that are out of his fear, for the indignation of the Lord God is kindled againſt you, and the ſword of the Lord God is drawn to cut you down, and the fire of his jealouſie is kind<g ref="char:EOLhyphen"/>led againſt your unrighteous actions, and plagues, and de<g ref="char:EOLhyphen"/>ſolation and utter deſtruction from the hand of the Lord God muſt you all receive if you repent not ſpeedily, for the day of terrible judgement is haſtening and coming on you from the hand of the Lord God; Therefore be you warned and flie for your lives out of <hi>Sodom</hi> and <hi>Egypt,</hi> ſpiritually ſo called, for in the ſtreets of ſpiritual <hi>Sodom</hi> and <hi>Egypt</hi> is the Lamb of God ſlain, and the Earth whereon his bloud lyeth cryeth for vengeance to the Lord God, for the ſeed of <hi>Jacob</hi> is oppreſſed, and have long groaned under bondage to the Lord for deliverance, and for his ſeed and Elects ſake he is coming to take vengeance on the oppreſſor that oppreſſeth the juſt, that hath grieved the Spirit of God in themſelves and alſo in others, like Judas who betrayed the juſt into the
+<pb n="3" facs="tcp:172989:2" rendition="simple:additions"/>hands of finners, ſo have many of you done, when the juſt principle of God have riſen in you at any time, and have ſhewed you that you ſhould have done the thing that pleaſed God that was Righteous in the ſight of God, but you fled from this the good Spirit of God that ſhould have guided you over deceit, but you like <hi>Judas</hi> have fled from Chriſt, and have been offended in him.</p>
+            <p>But wo, wo from the Lord God unto you that have ſo done, a bitter cup is prepared for you, and you ſhall as ſurely drink it as the Lord God is True, for as a bird is taken in the ſnare, ſo ſhall you be taken that ſleight the day of your viſitation which is paſſing away, and then ſhall you be taken with all the unprofitable ſervants that hath ſpended their portion with the Harlot, with the beaſt and the falſe prophet; this will the Lord God ſay unto ſuch, <hi>Go ye Curſed into ever<g ref="char:EOLhyphen"/>laſting torment prepared for the Devil and his angels;</hi> For Gods in<g ref="char:EOLhyphen"/>dignation is gone forth againſt the Heads and Rulers in this Nation, and he will overturn them all, and this is the cauſe that the Lords Righteous Soul is vexed with them, and plagues will be bring on them ſpeedily, becauſe they hold up that that the Lords purpoſe is to throw down, the kingdom of antichriſt, the beaſt and falſe prophet with them ſhall fall together, and both they and their upholders ſhall drink of one cup; and wo unto the falſe prophets that are upheld by the powers of darkneſſe, the Devil that hath enſnared men to teach lies, and then they go to the ſame power to be up<g ref="char:EOLhyphen"/>holded, and to have maintenance; but wo unto their up<g ref="char:EOLhyphen"/>holders and to their maintainers, thoſe are ſeen to be decei<g ref="char:EOLhyphen"/>vers; and this is the day of the Lord, wherein the Lord is opening the eyes of all people that have been long blinded by them, and they that have heard them long now are made to cry out wo againſt them; for the Lord God hath a terrible cup for them to drink, and wo unto their upholders, they that uphold Tithes for them, who conſtraineth people to pay Tithes to them whether they will or no; away with this Mi<g ref="char:EOLhyphen"/>niſtry, it is not of God but of Antichriſt, and upholded by the power of antichriſt, the Devil that ruleth in the hearts of men; therefore away with Tithes, put it down, for elſe
+<pb n="4" facs="tcp:172989:3" rendition="simple:additions"/>the plagues of God will fall on you that are the upholders of it, and the indignation of the Lord ſhall ſurely come upon you, unleſs you joyn unto the Lord againſt his enemies, o<g ref="char:EOLhyphen"/>therwiſe the hand of the Lord will be againſt you, and you ſhall never proſper till you act for the Lord and not to pleaſe men, for you that are men-pleaſers is out of the Covenant of God; and therefore put down Tithes, for God never com<g ref="char:EOLhyphen"/>manded you to pay Tithes nor to uphold them for his Mi<g ref="char:EOLhyphen"/>niſters, neither do they ſeek to you for any ſupport, but God he maintaineth his Miniſters and ſupporteth them by his power, and they come not to you, for they that have receiv<g ref="char:EOLhyphen"/>ed the gift of God gives it freely, as freely as they have re<g ref="char:EOLhyphen"/>ceived; and therefore come and buy wine and milk without money and without price, as Chriſt ſaid unto his Diſciples, <hi>Behold I ſend you forth as Lambs amongſt Wolves, without bag or ſcrip, freely give, for freely you have received;</hi> So they that are Chriſts Diſciples, they are his Miniſters, and they he ſend<g ref="char:EOLhyphen"/>eth forth and commandeth them to give freely as they have received him, ſo they preach him, and this is the godly Mi<g ref="char:EOLhyphen"/>niſtry, and theſe God will uphold, and not by any ſtrength of man.</p>
+            <p>But all your man-made Miniſters, made by the will of man, ſuch as have learned lying inventions in the corrupt Nature, and ſo mix them with the Pure Scripture which was given forth by the Pure Spirit of the Pure God by his Servants and Meſſengers, but theſe whom you call your Miniſters have not the Spirit of God, but they are ſeparated from God ſenſu<g ref="char:EOLhyphen"/>al having not the Spirit, ſo thoſe are the clouds without rain carried about with the tempeſt, but of them beware, for they have craftily crept into houſes, calling them Churches, but God hath a Church of living ſtones, Elect and pretious, and this Church is God a building in this our day, a Spiritual Houſe built upon that Rock that never ſhall be ſhaken, the Rock that is Gods Elect, upon whom all the righteous build<g ref="char:EOLhyphen"/>eth, and behold all that are not builded upon this Rock, the ſtorms now ariſeth apace that will ſhake them, when the Wil<g ref="char:EOLhyphen"/>derneſſe ſhall be ſhaken, and the World ſhall be in amazement, and ſadneſſe of heart ſhall ſmite the rebellious with the Hypocrite, and whether will you fly that are out of the fear
+<pb n="5" facs="tcp:172989:3" rendition="simple:additions"/>of God, for the Tribes of the Earth ſhall mourn, and I tell you, ſuch Tribulation and anguiſh of Soul ſhall come as hath not been known ſince the beginning, although darkneſs hath long covered the Earth, yet now hath the Lord God com<g ref="char:EOLhyphen"/>manded light to ſhine out of dakneſs, and now people doth begin to ſee where they have been in the alienation, even ſtrangers from their Maker; now the ſenſes of people coming to be awakened after this long night of thick darkneſs where<g ref="char:EOLhyphen"/>with they have been clouded, ſo that the face of the Lord hath been hid from his Creatures; but now it ſhall be ſo no more, but all that do believe in the light, &amp; that ſhall yet come to believe, all ſuch ſhall ſee the Glory of the Lord, and all fleſh ſhall behold the beauty of the Lord, for now God is co<g ref="char:EOLhyphen"/>ming in Power and in great Glory, &amp; excellent brightneſs is a breaking forth, as the lightening cometh out of the Eaſt and ſhineth unto the Weſt, even ſo is the coming of the Son of man, and they that have ſeen his coming in them, may ſo de<g ref="char:EOLhyphen"/>clare of him, and ſuch may Propheſie of his coming, for the powers of Heaven ſhall move, then ſhall you ſee the Son of man coming in the clouds of Heaven with power and with great Glory, and this is the day of his coming, and ſuch as know him come may declare of him, they may give their te<g ref="char:EOLhyphen"/>ſtimony for him that they have ſeen his coming in them; and ſuch as have not ſeen his coming in them, they are lying dreamers that dreameth a lie, and the world wondreth after them.</p>
+            <p>Theſe are the lying Beaſts and the falſe Prophets that de<g ref="char:EOLhyphen"/>ceiveth all the world with their lying wonders, theſe are they that God will deſtroy and utterly conſume by the breath of his mouth; therefore let Tythes go down leſt you par<g ref="char:EOLhyphen"/>take with them in their plagues, for Gods vengeance and his plagues and woes is againſt them and againſt their upholders, for the Lords unreſiſtable power and his unlimited ſpirit cau<g ref="char:EOLhyphen"/>ſeth us to cry againſt them and againſt their upholders, fore<g ref="char:EOLhyphen"/>ſeeing their deſolation and their deſtruction coming on them and their upholders, and therefore flye from the wrath to come, I warn you by the ſpirit of the Lord God, whoſe Con<g ref="char:EOLhyphen"/>ſciences is not wholly ſeared, whilſt there is any tenderneſs
+<pb n="6" facs="tcp:172989:4" rendition="simple:additions"/>left, beware of the deceivers, neither hearken unto them, neither lend an ear to the wicked one, nor to his temptation, but turn to the light of the Lord God in your own heart, and lend your ear there, and hear the voice of wiſdom which calleth you to return and hearken to the Counſel of God which is known within, for whatſoever is to be known of God is manifeſt in man; behold this is the day of the Lords ever<g ref="char:EOLhyphen"/>laſting love and kindneſs wherein he is revealing himſelf unto the ſons of men, and an everlaſting power is he a breaking thorow the Earth, and he is rending down the Mountains that hath been high, and exalted above all that is called God, and he is ſearching and trying the hearts of all men high and low; great, and mighty, and powerful is the Lord God of <hi>Abraham,</hi> and he will throw down both Kings and Rulers that are Ru<g ref="char:EOLhyphen"/>ling and Governing in the Earth, and they themſelves are not governed by the Spirit of the Lord God, which is Truth in the inward parts, and leadeth into the path of Juſtice, Truth, and Righteouſneſs, to Rule for the Lord God, and not for men; and that is required of you by the Lord God, that are Ruling and Governing in this Nation, that you Act for the Lord God, and that you may no longer uphold that which the hand of the Lord God is againſt you for, and againſt them that you uphold; and this is the day of the Lord wherein he is coming to break in pieces the potſheards of the Earth that by force and cruelty oppreſs the juſt and grieve the righteous ſpirit of the Lord God who will not alwayes ſtrive with you, but whilſt he doth ſtrive by his unlimited power, harden not your hearts leſt the Lord deſtroy you as he did hard-hearted <hi>Pharaoh,</hi> and as he did <hi>Sodom</hi> and <hi>Gomorah,</hi> who Repented not although he warned them by his Meſſengers, whom they be<g ref="char:EOLhyphen"/>lieved not; for God is not mocked, but he will reward a juſt recompence into the boſome of the rebellious, hard-hearted and ſtiff-necked, who are out of the Covenant of God, and enemies to the Croſs of Chriſt, and ſo are found idlers out of the Vineyard of God without in the world, where the ſins of <hi>Sodom</hi> doth abound, idleneſs and fulneſs of bread, and ſo forgetting the Lord that created them, and ſuch the Lord God will plead with in the day of his appearance, which is already
+<pb n="7" facs="tcp:172989:4" rendition="simple:additions"/>come; and yet they do not ſee it becauſe they are blinded by the God of this world, and by the deceivers that hath de<g ref="char:EOLhyphen"/>ceived the hearts of all men that are in the world; but now Antichriſt and his kingdom will the Lord God ſpeedily throw down and utterly confound, and this work is the Lord alrea<g ref="char:EOLhyphen"/>dy doing, and he will go thorow with it although men can<g ref="char:EOLhyphen"/>not ſee it whoſe eyes are blinded; yet many whoſe eyes are opened do ſee the work of the Lord, and glory be to his name, he is laying low all the dark Powers of the Earth that hath up<g ref="char:EOLhyphen"/>holden the falſe Prophet, and great <hi>Babel</hi> which hath been builded ſo high, yet now will the Lord God throw her to the bottom, and great ſhall be the fall of her and of her uphol<g ref="char:EOLhyphen"/>ders, for the Lords indignation and wrath is to be poured forth upon the Whore, and the Beaſt, and the falſe Prophet, and they are to be turned alive into the lake of endleſſe tor<g ref="char:EOLhyphen"/>ment, for the unreſiſtable God will utter forth everlaſting Plagues upon the Deceivers of this Nation, who have called themſelves Miniſters of Chriſt, and are upheld by men; but ſuch as uphold them, the unlimitted power of God will break them in pieces and daſh in ſunder, for the Decree of God is already ſealed to break in pieces the dark power that uphold<g ref="char:EOLhyphen"/>eth them that he hath purpoſed in his heart to throw down, for this is God about to do, even to deſtroy all the falſe Pro<g ref="char:EOLhyphen"/>phets, and Antichriſt, and there ſhall not one of them eſcape the powerful hand of the Lord God, for God never ſent them yet they run, they ſay <hi>The Lord ſaith,</hi> when he never ſpake un<g ref="char:EOLhyphen"/>to them; And theſe are man-made Miniſters, and theſe are the greateſt enemies that the Lord God hath upon the face of the whole Earth, and both they and their upholders ſhall pe<g ref="char:EOLhyphen"/>riſh together.</p>
+            <p>Therefore in the fear of the Lord conſider, you that are upholding them whilſt they are deceiving you, try your deeds by the light of Chriſt, and ſee whether or no your works be wrought in God, and ſee with the ſingle eye which is the light as in the preſence of the Lord God, try your deeds, words, and actions in the fear of the Lord; I lay it upon you as I received it from the pure, eternal and inviſible God whoſe works are wrought in the light, and whoſe counſel is known
+<pb n="8" facs="tcp:172989:5" rendition="simple:additions"/>in the light to ſuch as fear him and walk in his light; for he that revealeth the Father is the Son, and the Son is the light of the world, and he that is out of the light is out of the counſel of God; and marvel not at theſe things as <hi>Nicodemas</hi> did, although he was a Ruler in <hi>Iſrael,</hi> he knew not the things of God; and this I ſay unto you, unleſs you come to the light of Chriſt, the gift of God, you cannot enter into the King<g ref="char:EOLhyphen"/>dom of God; and this is the Truth of God, and he that climbeth up another way he is a thief and a robber, and ſuch enters not by the door, Chriſt; this is to you given forth by the ſpirit of the Lord God for you to read in the fear of the Lord, and his Meſſage who is the Lord of Heaven and Earth, that you may be warned to repent and to leave theſe things that the hand of the Lord is againſt you for, that you may e<g ref="char:EOLhyphen"/>ſcape the terrours of the Almighty which are ready to break in upon you, and this in pure obedience to the ſpirit of the Lord was I moved to give forth unto you, whoſe ſpirit is unreſiſtable; the wind bloweth where it liſteth, and no man can ſtop it; even ſo is the ſpirit of the Lord God unlimitted and without bounds: Therefore hear and conſider, &amp; quench it not; and this is dear love to warn you, and its the large love of God that reacheth unto his own in every man: And this is Truth given forth,</p>
+            <closer>
+               <signed>By <hi>Dorothy White.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
